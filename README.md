@@ -43,3 +43,5 @@ The DAG uses the following default configuration (`default_args`):
 3. Start the **Airflow scheduler** and **Airflow webserver**.  
 4. Enable the `process_web_log` DAG from the Airflow UI.  
 5. Monitor execution from the web interface.  
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
